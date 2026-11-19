@@ -97,14 +97,15 @@
 <h2 align="center">Teach Me Something 💡</h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com?subject=Teach%20Me%20Something!" target="_blank">
-    <img src="./assets/teach.jpeg" alt="Teach Me Something" />
+  <a href="mailto:sephoradidavi6@gmail.com?subject=Teach%20Me%20Something!" target="_blank">
+    <img src="https://img.shields.io/badge/Teach%20Me%20Something-FFD21E?style=for-the-badge&logo=lightbulb&logoColor=black" alt="Teach Me Something" height="42" />
   </a>
 </p>
 
 <br/>
 
-<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./assets/teach.jpeg" width="650" alt="Teach Me Something Illustration" />
 </p>
+
+
