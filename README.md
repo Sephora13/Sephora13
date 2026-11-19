@@ -53,7 +53,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephora13&layout=compact&hide_border=true&theme=dark" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Sephora13&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephora13&layout=compact&hide_border=true&theme=dark" height="165" alt="Top Languages" />
 </p>
 
 ---
