@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TITLE / GREETING -->
-<h1 align="center">Hii👋, I'm Sephora Didavi</h1>
+<h1 align="center">Hii👋, I'm Sephora DIDAVI</h1>
 
 <!-- SHORT BIO -->
 <p align="center">
@@ -30,6 +30,9 @@
 ### 📫 Reach Me on:
 
 <p align="left">
+  <a href="https://sephora-portfolio.vercel.app" target="_blank">
+    <img src="./assets/memojie2.png" alt="Website" />
+  </a>
   <a href="mailto:sephoradidavi6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
