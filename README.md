@@ -18,7 +18,7 @@
 <!-- ABOUT ME SECTION -->
 ## 💫 About Me
 
-  <img src="./assets/memojie.png" width="100%" alt="Header Banner" />
+  <img src="./assets/memojie.png" width="50%" alt="Header Banner" />
 
 - 🔭 **Currently working on:** Building software applications and exploring better ways to design, develop, and deliver digital solutions.
 - 💼 **Background in:** Full-Stack Development with TypeScript, JavaScript, React, Next.js, NestJS, and Node.js.
