@@ -33,78 +33,38 @@
 - **Data Analysis Training Certificate** — Data collection, processing, and analysis.
 - **Project Management Training Certificate** — Project planning, coordination, and management fundamentals.
 
----
-
-### 📫 Reach Me on:
-
-<p align="left">
-  <a href="https://sephora-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:sephoradidavi6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sephora-didavi-163719270/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 <br clear="right"/>
 
 ---
 
+<!-- SKILLS & GIT STATS SECTION -->
+## Skills & Git Stats
 
-
-<!-- LANGUAGES & TOOLS -->
-<h2 align="center">💻 Languages & tools I Have placed My Hands On</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,flutter,html,css,tailwind,postgres,mongodb,mysql,docker,git,github,vscode,postman,slack,stackoverflow,huggingface&perline=8" alt="Skills Icons" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=node.js&logoColor=6DA55F" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/CSS-18181b?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-18181b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-18181b?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/NestJS-18181b?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-18181b?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-18181b?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
 </p>
 
-<!-- TECH STACK -->
-<h3 align="center">📊 Tech Stack:</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sephora13&show_icons=true&hide_border=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephora13&layout=compact&hide_border=true&theme=dark" height="150" alt="Top Languages" />
 </p>
 
 ---
-
-<!-- GITHUB STATISTICS -->
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephora13&layout=compact&hide_border=true&title_color=851B3D"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
 
 <!-- TEACH ME SOMETHING -->
 <h2 align="center">Teach Me Something 💡</h2>
@@ -119,6 +79,27 @@
 
 <p align="center">
   <img src="./assets/teach.jpeg" width="650" alt="Teach Me Something Illustration" />
+</p>
+
+---
+
+<!-- CONTACT SECTION -->
+## Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sephora-didavi-163719270/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-18181b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sephoradidavi6@gmail.com">
+    <img src="https://img.shields.io/badge/email-18181b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://sephora-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/website-18181b?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/mascot.png" width="130" alt="Mascot" />
 </p>
 
 
