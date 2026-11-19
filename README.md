@@ -18,7 +18,7 @@
 <!-- ABOUT ME SECTION -->
 ## 💫 About Me
 
-<img align="right" width="320" src="./assets/memojie.png" alt="Sephora Memoji" />
+<img align="right" width="220" src="./assets/memojie.png" alt="Sephora Memoji" />
 
 - 🔭 **Currently working on:** Building software applications and exploring better ways to design, develop, and deliver digital solutions.
 - 💼 **Background in:** Full-Stack Development with TypeScript, JavaScript, React, Next.js, NestJS, and Node.js.
@@ -29,12 +29,11 @@
 
 <!-- EDUCATION & PROFESSIONAL TRAINING -->
 ## 🎓 Education & Professional Training
-
 - **Bachelor's Degree in Computer Systems and Software** 
 - **Data Analysis Training Certificate** — Data collection, processing, and analysis.
 - **Project Management Training Certificate** — Project planning, coordination, and management fundamentals.
 
-
+---
 
 ### 📫 Reach Me on:
 
