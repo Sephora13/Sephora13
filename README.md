@@ -48,7 +48,7 @@
 <h2 align="center">💻 Languages & tools I Have placed My Hands On</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,flutter,html,css,postgres,mysql,docker,git,github,vscode,postman,tailwind,slack,stackoverflow,huggingface&perline=7" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,flutter,html,css,postgres,mysql,docker,git,github,vscode,postman,tailwind,slack,stackoverflow,huggingface&perline=9" alt="Skills Icons" />
 </p>
 
 <!-- TECH STACK -->
@@ -88,11 +88,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sephora13&show_icons=true&theme=default&hide_border=true&title_color=851B3D&icon_color=851B3D"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephora13&layout=compact&hide_border=true&title_color=851B3D"
     height="165"
     alt="Most used languages"
@@ -104,7 +99,7 @@
 
 <p align="center">
   <a href="mailto:your-email@example.com?subject=Teach%20Me%20Something!" target="_blank">
-    <img src="https://img.shields.io/badge/Teach%20Me%20Something-FFD21E?style=for-the-badge&logo=lightbulb&logoColor=black" alt="Teach Me Something" />
+    <img src="https://pin.it/1EiJ77jMG" alt="Teach Me Something" />
   </a>
 </p>
 
