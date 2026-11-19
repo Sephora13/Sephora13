@@ -45,6 +45,15 @@
 
 ---
 
+<!-- EDUCATION & PROFESSIONAL TRAINING -->
+## 🎓 Education & Professional Training
+
+- **Bachelor's Degree in Computer Systems and Software** — UATM GASA-FORMATION
+- **Data Analysis Training Certificate** — Data collection, processing, and analysis.
+- **Project Management Training Certificate** — Project planning, coordination, and management fundamentals.
+
+---
+
 <!-- LANGUAGES & TOOLS -->
 <h2 align="center">💻 Languages & tools I Have placed My Hands On</h2>
 
