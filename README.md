@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-18181b?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-18181b?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+  
 </p>
 
 <p align="left">
