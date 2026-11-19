@@ -60,7 +60,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sephora13&show_icons=true&hide_border=true&theme=dark" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sephora13&layout=compact&hide_border=true&theme=dark" height="150" alt="Top Languages" />
 </p>
 
