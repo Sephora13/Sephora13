@@ -5,13 +5,6 @@
 
 <br/>
 
-<!-- TITLE / GREETING -->
-<h1 align="center">Hii👋, I'm Sephora DIDAVI</h1>
-
-<!-- SHORT BIO -->
-<p align="center">
-  👋 Software Developer interested in application design and development, as well as the managerial and strategic dimensions of technology, particularly project management, product management, and digital strategy.
-</p>
 
 ---
 
