@@ -18,7 +18,7 @@
 <!-- ABOUT ME SECTION -->
 ## 💫 About Me
 
-  <img src="./assets/memojie.png" width="50%" alt="Header Banner" />
+<img align="right" width="320" src="./assets/memojie.png" alt="Sephora Memoji" />
 
 - 🔭 **Currently working on:** Building software applications and exploring better ways to design, develop, and deliver digital solutions.
 - 💼 **Background in:** Full-Stack Development with TypeScript, JavaScript, React, Next.js, NestJS, and Node.js.
@@ -26,8 +26,6 @@
 - ⚡ **Interested in:** Software Architecture, AI-powered development tools, Product Design, Digital Transformation, and Technology Strategy.
 - 🎯 **Driven by:** Understanding problems, turning ideas into practical solutions, and continuously improving the way things are built.
 - ✨ **Personal motto:** Never stop questioning, learning, and building.
-
-<br/>
 
 ### 📫 Reach Me on:
 
@@ -48,7 +46,7 @@
 <h2 align="center">💻 Languages & tools I Have placed My Hands On</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,flutter,html,css,postgres,mysql,docker,git,github,vscode,postman,tailwind,slack,stackoverflow,huggingface&perline=9" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,flutter,html,css,tailwind,postgres,mongodb,mysql,docker,git,github,vscode,postman,slack,stackoverflow,huggingface&perline=8" alt="Skills Icons" />
 </p>
 
 <!-- TECH STACK -->
@@ -69,6 +67,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -99,7 +98,7 @@
 
 <p align="center">
   <a href="mailto:your-email@example.com?subject=Teach%20Me%20Something!" target="_blank">
-    <img src="https://pin.it/1EiJ77jMG" alt="Teach Me Something" />
+    <img src="./assets/teach.jpeg" alt="Teach Me Something" />
   </a>
 </p>
 
