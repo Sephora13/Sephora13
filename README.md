@@ -11,7 +11,7 @@
 <!-- ABOUT ME SECTION -->
 ## 💫 About Me
 
-<img align="right" width="220" src="./assets/memojie-presenting.png" alt="Sephora Memoji" />
+<img align="right" width="220" src="./assets/memojie.png" alt="Sephora Memoji" />
 
 - 🔭 **Currently working on:** Building software applications and exploring better ways to design, develop, and deliver digital solutions.
 - 💼 **Background in:** Full-Stack Development with TypeScript, JavaScript, React, Next.js, NestJS, and Node.js.
